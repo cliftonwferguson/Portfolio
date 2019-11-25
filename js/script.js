@@ -7,7 +7,7 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typed", {
-      strings: ["From Virginia to Japan to developing", "An experienced Junior Developer"],
+      strings: ["From Virginia to Japan to web development", "An experienced Junior Developer"],
       typeSpeed: 70,
       loop: true,
       startDelay: 1000,
