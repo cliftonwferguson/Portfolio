@@ -57,8 +57,29 @@ body {
 	max-width: 100%;
 }
 
-.skillsSection {
+.skillsSection, .educationSection {
 	background-color: #e84118;
 	color: #fff;
 }
 
+#navigation {
+	background-color: #e84118;
+	padding: 20px 10px;
+	z-index: 100;
+}
+
+#navigation li {
+	padding: 0 10px;
+}
+
+#navigation li a {
+	color: #fff;
+}
+
+#eduction {
+	padding-top: 5px;
+}
+
+.navbar-brand {
+	color: #fff;
+}
