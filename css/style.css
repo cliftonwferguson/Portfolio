@@ -66,6 +66,7 @@ body {
 	background-color: #e84118;
 	padding: 20px 10px;
 	z-index: 100;
+	width: 100%;
 }
 
 #navigation li {
