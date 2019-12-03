@@ -1,3 +1,10 @@
+
+$(window).on("load", function() {
+   $(".loader .inner").fadeOut(500, function() {
+     $(".loader").fadeOut(750);
+   });
+})
+
 $(document).ready(function() {
 
   $('#slides').superslides({
@@ -7,7 +14,7 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typed", {
-      strings: ["From Virginia to Japan to web development", "An experienced Junior Developer"],
+      strings: ["More than just a Junior Developer", "From Virginia to Japan to web development", "A proven mature Junior Developer "],
       typeSpeed: 70,
       loop: true,
       startDelay: 1000,
