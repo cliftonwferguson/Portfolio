@@ -114,3 +114,27 @@ body {
 	height: 100%;
 	background: url(../img/loader.gif) center center no-repeat;
 }
+
+.col-md-6:hover .aboutImage {
+    filter:blur(2px) brightness(60%);
+    box-shadow:0 0 16px cyan;
+}
+
+.col-md-6:hover .text {
+	opacity:1;
+}
+
+.text {
+	position:absolute;
+    z-index:1;
+    top:30%;
+    width:100%;
+    text-align:center;
+    color: #black;
+    opacity:0;
+    transition:.3s;
+}
+
+
+
+
