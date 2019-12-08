@@ -137,9 +137,21 @@ body {
 
 #vmi {
 	padding-bottom: 20px;
-}
+	height:100%;
+} 
 
 .linkedin {
 	padding-top: 20px;
+} 
+
+.murray {
+	max-width: 100%;
+	max-height: 100%;
+	min-width:100%;
+	min-height: 100%;
+
 }
 
+#aboutText {
+	margin-top: 15%;
+}
