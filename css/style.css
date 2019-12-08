@@ -60,7 +60,7 @@ body {
 	min-height: 100%;
 }
 
-.skillsSection, .educationSection {
+.skillsSection, .educationSection, .usSection {
 	background-color: #e84118;
 	color: #fff;
 }
@@ -145,10 +145,10 @@ body {
 } 
 
 .murray {
-	max-width: 100%;
-	max-height: 100%;
-	min-width:100%;
-	min-height: 100%;
+	margin-top: 5%;
+	height:100%;
+} 
+
 
 }
 
