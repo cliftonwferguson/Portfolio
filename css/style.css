@@ -115,12 +115,12 @@ body {
 	background: url(../img/loader.gif) center center no-repeat;
 }
 
-.col-md-6:hover .aboutImage {
+.education:hover .aboutImage {
     filter:blur(2px) brightness(60%);
     box-shadow:0 0 16px cyan;
 }
 
-.col-md-6:hover .text {
+.education:hover .text {
 	opacity:1;
 }
 
