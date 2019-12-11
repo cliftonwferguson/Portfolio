@@ -126,6 +126,7 @@ body {
 
 .text {
 	position:absolute;
+	left: 10px;
     z-index:1;
     top:30%;
     width:100%;
@@ -206,3 +207,12 @@ body {
   transform: rotateY(180deg);
 }
 
+.filter a {
+  color: #bdc3c7;
+  border: 1px solid #bdc3c7;
+  padding: 18px;
+}
+
+.filter li {
+  display: inline-block;
+}
