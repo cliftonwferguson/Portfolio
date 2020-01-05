@@ -77,6 +77,8 @@ $(document).ready(function() {
       }
    })
 
+   $("#filters a").click()
+
    $("[data-fancybox]").fancybox();
 
    
