@@ -337,3 +337,24 @@ body {
 .items {
 	padding: 0;
 }
+
+.copyrightSection {
+	background-color: #000;
+	color: #fff;
+	padding: 30px 5px;
+}
+
+.copyrightSection p {
+	margin: 0;
+}
+
+.appName {
+	position: absolute;
+        z-index: 3;
+        margin: 0 auto;
+        left: 0;
+        right: 0;        
+        text-align: center;
+        top: 40%;
+        color: #fff;
+}
