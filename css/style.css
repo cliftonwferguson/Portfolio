@@ -61,12 +61,12 @@ body {
 }
 
 .skillsSection, .educationSection, .usSection {
-	background-color: #e84118;
+	background-color: #d63031;
 	color: #fff;
 }
 
 #navigation {
-	background-color: #e84118;
+	background-color: #d63031;
 	padding: 20px 10px;
 	z-index: 100;
 	width: 100%;
@@ -203,7 +203,7 @@ body {
 
 .flip-box-backUS {
   margin-top: 15%;
-  background-color: #e84118;
+  background-color: #d63031;
   transform: rotateY(180deg);
 }
 
@@ -225,8 +225,8 @@ body {
 }
 
 .filter .current {
-  background-color: #e84118;
-  border-color: #e84118;
+  background-color: #d63031;
+  border-color: #d63031;
   color: #fff;
 }
 
@@ -277,7 +277,7 @@ body {
 .items a {
 	width: 30px;
 	height: 30px;
-	background-color: #e84118;
+	background-color: #d63031;
 	position: relative;
 	display: inline-block;
 	padding-top: 5px;
