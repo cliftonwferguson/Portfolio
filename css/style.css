@@ -362,3 +362,7 @@ body {
 ul {
 	text-align: left;
 }
+
+.filter ul {
+	padding-left: 0;
+}
