@@ -358,3 +358,7 @@ body {
         top: 40%;
         color: #fff;
 }
+
+ul {
+	text-align: left;
+}
