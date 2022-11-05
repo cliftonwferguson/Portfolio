@@ -14,7 +14,7 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typed", {
-      strings: ["More than just a Junior Developer", "From Virginia to Japan to Chicago", "A proven asset"],
+      strings: ["More than just a programmer", "From Virginia to Japan to Chicago", "A proven asset"],
       typeSpeed: 70,
       loop: true,
       startDelay: 1000,
